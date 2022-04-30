@@ -11407,7 +11407,6 @@ p {
 }
 header.masthead {
     
-
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -11422,6 +11421,7 @@ header.masthead {
 }
 
 header.masthead .masthead-subheading {
+  
   font-size: 1.5rem;
   font-style: italic;
   line-height: 1.5rem;
